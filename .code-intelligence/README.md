@@ -2,6 +2,7 @@
 
 ## What is fuzzing (in a nutshell)?
 https://www.code-intelligence.com/
+
 Fuzzing is a dynamic code analysis technique that supplies pseudo-random inputs
 to a software-under-test (SUT), derives new inputs from the behaviour of the
 program (i.e. how inputs are processed), and monitors the SUT for bugs.
